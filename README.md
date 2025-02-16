@@ -8,7 +8,7 @@
 
 A proof of concept chess web application, which you can run locally, and play vs an AI.
 
-[Play Now](#installation) · [Report Bug](https://github.com/yourusername/chess-game/issues) · [Request Feature](https://github.com/yourusername/chess-game/issues)
+[Play Now](#installation) · [Report Bug](https://github.com/jackbeardless/Chess/issues) · [Request Feature](https://github.com/jackbeardless/Chess/issues)
 
 ![Chess Game Preview](screenshot.png)
 

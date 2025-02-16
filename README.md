@@ -68,9 +68,9 @@ A proof of concept chess web application, which you can run locally, and play vs
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
 
 ## 📝 License
@@ -79,9 +79,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Discord - [Duck](https://discord.com/users/1061410926919696447) <a href="https://discord.com/users/1061410926919696447"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" height="15"></a>
 
-Project Link: [https://github.com/yourusername/chess-game](https://github.com/yourusername/chess-game)
+Project Link: [https://github.com/jackbeardless/Chess](https://github.com/jackbeardless/Chess)
 
 ## 🙏 Acknowledgments
 
@@ -92,5 +92,5 @@ Project Link: [https://github.com/yourusername/chess-game](https://github.com/yo
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Jack
 </div>

@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/chess-game)
-![GitHub license](https://img.shields.io/github/license/yourusername/chess-game)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/chess-game)
+![GitHub last commit](https://img.shields.io/github/last-commit/jackbeardless/Chess)
+![GitHub license](https://img.shields.io/github/license/jackbeardless/Chess)
+![GitHub stars](https://img.shields.io/github/stars/jackbeardless/Chess)
 
-A sleek, dark-themed chess application where you can challenge an AI opponent. Built with modern web technologies and designed with minimalism in mind.
+A proof of concept chess web application, which you can run locally, and play vs an AI.
 
 [Play Now](#installation) · [Report Bug](https://github.com/yourusername/chess-game/issues) · [Request Feature](https://github.com/yourusername/chess-game/issues)
 
